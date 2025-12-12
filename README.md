@@ -150,8 +150,9 @@ Begin PoC with Android-based devices.
 Build internal analytics and detection expertise.
 
 Prepare SOPs, governance policies, and documentation for managed operations.
+## 5. Repository Structure
 
-5. Repository Structure
+```
 INCS870-FA25-Team02/
 │── README.md
 │
@@ -177,3 +178,5 @@ INCS870-FA25-Team02/
 │
 │── 07_References/
 │     ├── (place external reports, citations, datasets here)
+```
+
